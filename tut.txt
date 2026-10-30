@@ -1,0 +1,19 @@
+
+Run each in a separate terminal from the project root money-mend:
+
+Terminal 1 — Backend (port 5001):
+cd server && npm run dev
+
+Terminal 2 — ML Service (port 5002):
+python3 ml_service/app.py
+
+Terminal 3 — Frontend (port 5173):
+cd client && npm run dev
+
+user 1
+email : ankitbhandari@gmail.com
+pass : 1234
+
+user 2
+email :ashish@gmail.com
+pass :1234
